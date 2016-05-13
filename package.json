@@ -1,0 +1,38 @@
+{
+  "name": "forth-brain",
+  "version": "0.0.1",
+  "description": "Universal distributed artificial intelligence system of cognitive mapping an array of data to user devices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Zugr/ForthBrain.git"
+  },
+  "keywords": [
+    "forth",
+    "angular"
+  ],
+  "author": "zugr.77@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zugr/ForthBrain/issues"
+  },
+  "homepage": "https://github.com/Zugr/ForthBrain",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-concurrent": "^2.3.0",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-imagemin": "^1.0.0",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1",
+    "jit-grunt": "^0.10.0",
+    "jshint-stylish": "^2.2.0",
+    "load-grunt-config": "^0.19.2"
+  },
+  "dependencies": {
+    "time-grunt": "^1.3.0"
+  }
+}
