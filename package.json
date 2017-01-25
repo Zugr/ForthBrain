@@ -11,8 +11,9 @@
     "url": "git@github.com:Zugr/ForthBrain.git"
   },
   "keywords": [
-    "forth",
-    "angular"
+    "Forth",
+    "Javascript",
+    "C++"
   ],
   "author": "zugr.77@gmail.com",
   "license": "ISC",
@@ -21,25 +22,27 @@
   },
   "homepage": "https://github.com/Zugr/ForthBrain",
   "devDependencies": {
-    "bower": "^1.7.9",
-    "grunt": "^1.0.1",
-    "grunt-concurrent": "^2.3.0",
-    "grunt-contrib-clean": "^1.0.0",
-    "grunt-contrib-imagemin": "^1.0.0",
-    "grunt-contrib-jshint": "^1.0.0",
-    "grunt-contrib-sass": "^1.0.0",
-    "grunt-contrib-uglify": "^1.0.1",
-    "grunt-contrib-watch": "^1.0.0",
-    "jasmine": "^2.4.1",
-    "jit-grunt": "^0.10.0",
-    "jshint-stylish": "^2.2.0",
-    "karma": "^0.13.22",
-    "karma-chrome-launcher": "^1.0.1",
-    "karma-coverage": "^1.0.0",
-    "karma-jasmine": "^1.0.2",
-    "load-grunt-config": "^0.19.2"
+    "bourbon-neat": "^1.8.0",
+    "connect-livereload": "^0.6.0",
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-inject": "^4.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-rev": "^7.1.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-usemin": "^0.3.27",
+    "node-bourbon": "^4.2.8",
+    "openurl": "^1.1.1",
+    "run-sequence": "^1.2.2",
+    "systemjs-builder": "^0.16.0",
+    "tiny-lr": "^1.0.3"
   },
   "dependencies": {
-    "time-grunt": "^1.3.0"
+    "del": "^2.2.2",
+    "matreshka": "^2.2.0"
   }
 }

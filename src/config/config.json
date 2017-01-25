@@ -1,0 +1,6 @@
+{
+    "env": "dev",
+    "apiRoot": "http://dev.alsma.synergetica.net/api",
+    "productVerId": "2882303761857634286",
+    "wsURL": "ws://dev.alsma.synergetica.net/ws/ch{PERSON_ID}"
+}
